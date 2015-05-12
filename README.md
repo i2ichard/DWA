@@ -1,3 +1,3 @@
 # Deployment plan for my portfolio
-### *by Richard Mipana*
+*by Richard Mipana*
 
