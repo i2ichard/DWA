@@ -1,2 +1,3 @@
-# DWA
-Deployment of Web Applications
+# Deployment plan for my portfolio
+### *by Richard Mipana*
+
