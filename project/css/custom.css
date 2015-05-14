@@ -32,8 +32,3 @@ a p {
 	color: white;
 	margin-bottom: 0;
 }
-@media screen and (min-width: 420px){
-	a p {
-		padding: 8px 30px;
-	}
-}
