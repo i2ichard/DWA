@@ -32,3 +32,18 @@ a p {
 	color: white;
 	margin-bottom: 0;
 }
+.work-box {
+	min-height: 250px;
+	height: 90%;
+	margin-bottom: 15px;
+	margin-right: 15px;
+	padding: 0;
+}
+@media screen and (max-width: 767px) {
+    .work-box{
+        margin-left: 10px;
+    }
+}
+.panel-heading {
+	text-align: center;
+}
